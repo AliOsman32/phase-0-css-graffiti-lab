@@ -1,1 +1,21 @@
-/* write your override styles here */
+p{
+background-color: blueviolet;
+background-size: 25px;
+background: none;
+background-attachment: 30px;
+}
+sub{
+    background-color: brown;
+    background-size: 30px;
+    background: fixed;
+    font-size: large;
+    font-weight: 25px;
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+ }
+ sup{
+    background-color: aqua;
+    background-size: 50px;
+    background: local;
+    
+ }
